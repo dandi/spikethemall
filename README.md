@@ -19,7 +19,7 @@ We want to provide
   - that app will be available on dandiarchive but also available locally
   - people would be able to submit their curated data for their or someone's data
   - app will allow for submission of results (no actual raw or curated data) users obtain locally
-- **MetaSort** -
+- [MetaSort](https://github.com/spikodrome/metasort) -
   - eventually the app would embed and use knowledge on optimal sorting strategy for a given type of data (electrodes/species/cell_type)
   
 ## Goals
